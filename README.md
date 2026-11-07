@@ -1,3 +1,9 @@
+<img width="959" height="599" alt="Screenshot 2026-11-07 170606" src="https://github.com/user-attachments/assets/6814064d-87b7-4dc1-a77b-2f8362ba5691" />
+<img width="959" height="599" alt="Screenshot 2026-11-07 170541" src="https://github.com/user-attachments/assets/120f5f46-2166-4a2d-841a-6adbdfa728b5" />
+<img width="959" height="599" alt="Screenshot 2026-11-07 170508" src="https://github.com/user-attachments/assets/840cb66a-b028-48b9-bd94-ce832a539af7" />
+<img width="959" height="592" alt="Screenshot 2026-11-07 170457" src="https://github.com/user-attachments/assets/17f4e0ec-3105-4da6-ad02-31d209706953" />
+<img width="959" height="599" alt="Screenshot 2026-11-07 170447" src="https://github.com/user-attachments/assets/5350acf0-dab3-4698-a031-84f7a2ee3c40" />
+<img width="959" height="599" alt="Screenshot 2026-11-07 170435" src="https://github.com/user-attachments/assets/227b772a-bff2-4e54-a935-145751fc4aa8" />
 # DAKSH-SHARMA-IT-A-
 'use strict';
 const $=s=>document.querySelector(s);
